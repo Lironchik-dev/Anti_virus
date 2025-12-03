@@ -13,7 +13,7 @@ check_url = f"https://www.virustotal.com/api/v3/files/{id}"
 
 headers = {
     "accept": "application/json",
-    "x-apikey": "b7869e37f2589d67bb4ce271a0d5e4074a723672cae260f54664da188f33c047"
+    "x-apikey": "YOUR_API_KEY_HERE" #כתבתי ככה בגלל שגיט האב ביקשו שאשנה את זה לפני שאעלה את הקוד
 }
 
 
